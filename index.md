@@ -35,42 +35,42 @@ _The group was launched to fame via the YouTube series in mnet's channel **“KQ
 
 **Kim Hongjoong** 
 _(Leader, Captain, Rapper, Composer, Center)_
- ![alt text](https://github.com/MonicSophitia/MonicSophitia.github.io/blob/main/hongjoong.jpg)
+ ![alt text](hongjoong.jpg)
 
 
 **Park Seonghwa** 
 _(Vocalist, Visual, Oldest)_
-![alt text](https://github.com/MonicSophitia/MonicSophitia.github.io/blob/main/seonghwa.jpg)
+![alt text](seonghwa.jpg)
 
 
 **Jung Yunho**
 _(Performer, Vocalist)_
-![alt text](https://github.com/MonicSophitia/MonicSophitia.github.io/blob/main/yunho.jpg)
+![alt text](yunho.jpg)
 
 
 **Kang Yeosang** 
 _(Vocalist, Performer, Visual)_
-![alt text](https://github.com/MonicSophitia/MonicSophitia.github.io/blob/main/yeosang.jpg)
+![alt text](yeosang.jpg)
 
 
 **Choi San**
 _(Vocalist, Performer)_
-![alt text](https://github.com/MonicSophitia/MonicSophitia.github.io/blob/main/sannie.jpg)
+![alt text](sannie.jpg)
 
 
 **Song Mingi**
 _(Performer, Rapper)_
-![alt text](https://github.com/MonicSophitia/MonicSophitia.github.io/blob/main/mingi.jpg)
+![alt text](mingi.jpg)
 
 
 **Jung Wooyoung**
 _(Performer, Vocalist)_
-![alt text](https://github.com/MonicSophitia/MonicSophitia.github.io/blob/main/youngie.jpg)
+![alt text](youngie.jpg)
 
 
 **Choi Jongho**
 _(Main Vocalist, Maknae)_
-![alt text](https://github.com/MonicSophitia/MonicSophitia.github.io/blob/main/baby%20bear.jpg)
+![alt text](baby%20bear.jpg)
 
 
 # Units
