@@ -13,19 +13,19 @@ _The group was launched to fame via the YouTube series in mnet's channel **“KQ
 
 **Debut Album:** Treasure Ep.1: All to Zero
 
-**Debut Title Track:** "Pirate King" and "Treasure"
+**Debut Title Track:** [Treasure](https://youtu.be/tLV83ndOwz4) and [Pirate king](https://youtu.be/RqJ1rH9M5G0)
 
 **Ateez Name Explaination:** ATEEZ is an acronym for "A TEEnager Z", It also stands for "A to Z" meaning everyone, they are a group of teenagers who are aiming to do everything they can enthusiastically. 
 
 **Fandom Name:** Atiny(a combination of Ateez + Destiny)
 
-**Latest Comeback:** ZERO:FEVER Epilogue(released Last December 10,2021)
+**Latest Comeback:** ZERO:FEVER Epilogue(released Last December 10,2021) with the title tracks [Turbulence](https://youtu.be/80WvAnsHOdM) and [The Real](https://youtu.be/yxfCbV21ck8)
 
-**Latest korean single:** "Don't Stop"(universe single released last January 21, 2022)
+**Latest korean single:** [Don't Stop](https://youtu.be/itKuYgJa6T4)(universe single released last January 21, 2022)
 
 **Upcomming (Korean) Comeback release:** July 2022(album title is yet to be released)
 
-**Latest (Japanese) Comeback:** Dreamers(released last July 28,2021)
+**Latest (Japanese) Comeback:** [Dreamers](https://youtu.be/qi0oKSf2zSU)(released last July 28,2021)
 
 **Upcomming (Japanese) Comeback:** Beyond Zero(will be realeased May 25,2022)
 
