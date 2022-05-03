@@ -1,37 +1,101 @@
-## Welcome to GitHub Pages
+## ATEEZ
 
-You can use the [editor on GitHub](https://github.com/MonicSophitia/MonicSophitia.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+### **"EIGHT MAKES ONE TEAM!"** 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+ ![Image](https://github.com/MonicSophitia/MonicSophitia.github.io/blob/main/Ateez.jpg)
 
-### Markdown
+_**Ateez(에이티즈)** is an 8-member boy group under KQ Entertainment. Members consist of **Park Seonghwa, Kim Hongjoong, Jung Yunho, Kang Yeosang, Choi San, Song Mingi, Jung Wooyoung, Choi Jongho.**_
+_The group was launched to fame via the YouTube series in mnet's channel **“KQ Fellaz American Training”**, in which members travelled across the Pacific to receive instruction in the various skills needed to become K-pop stars._
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### FACTS
 
-```markdown
-Syntax highlighted code block
+**Debut Date:** 24th October 2018
 
-# Header 1
-## Header 2
-### Header 3
+**Debut Album:** Treasure Ep.1: All to Zero
 
-- Bulleted
-- List
+**Debut Title Track:** [Treasure](https://youtu.be/tLV83ndOwz4) and [Pirate king](https://youtu.be/RqJ1rH9M5G0)
 
-1. Numbered
-2. List
+**Ateez Name Explaination:** ATEEZ is an acronym for "A TEEnager Z", It also stands for "A to Z" meaning everyone, they are a group of teenagers who are aiming to do everything they can enthusiastically. 
 
-**Bold** and _Italic_ and `Code` text
+**Fandom Name:** Atiny(a combination of Ateez + Destiny)
 
-[Link](url) and ![Image](src)
-```
+**Latest Comeback:** ZERO:FEVER Epilogue(released Last December 10,2021) with the title tracks [Turbulence](https://youtu.be/80WvAnsHOdM) and [The Real](https://youtu.be/yxfCbV21ck8)
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+**Latest korean single:** [Don't Stop](https://youtu.be/itKuYgJa6T4)(universe single released last January 21, 2022)
 
-### Jekyll Themes
+**Upcomming (Korean) Comeback release:** July 2022(album title is yet to be released)
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/MonicSophitia/MonicSophitia.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+**Latest (Japanese) Comeback:** [Dreamers](https://youtu.be/qi0oKSf2zSU)(released last July 28,2021)
 
-### Support or Contact
+**Upcomming (Japanese) Comeback:** Beyond Zero(will be realeased May 25,2022)
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+
+
+### MEMBERS
+
+**Kim Hongjoong** 
+_(Leader, Captain, Rapper, Composer, Center)_
+ ![Image](https://github.com/MonicSophitia/MonicSophitia.github.io/blob/main/hongjoong.jpg)
+
+
+**Park Seonghwa** 
+_(Vocalist, Visual, Oldest)_
+![Image](https://github.com/MonicSophitia/MonicSophitia.github.io/blob/main/seonghwa.jpg)
+
+
+**Jung Yunho**
+_(Performer, Vocalist)_
+![Image](https://github.com/MonicSophitia/MonicSophitia.github.io/blob/main/yunho.jpg)
+
+
+**Kang Yeosang** 
+_(Vocalist, Performer, Visual)_
+![Image](https://github.com/MonicSophitia/MonicSophitia.github.io/blob/main/yeosang.jpg)
+
+
+**Choi San**
+_(Vocalist, Performer)_
+![Image](https://github.com/MonicSophitia/MonicSophitia.github.io/blob/main/sannie.jpg)
+
+
+**Song Mingi**
+_(Performer, Rapper)_
+![Image](https://github.com/MonicSophitia/MonicSophitia.github.io/blob/main/mingi.jpg)
+
+
+**Jung Wooyoung**
+_(Performer, Vocalist)_
+![Image](https://github.com/MonicSophitia/MonicSophitia.github.io/blob/main/youngie.jpg)
+
+
+**Choi Jongho**
+_(Main Vocalist, Maknae)_
+![Image](https://github.com/MonicSophitia/MonicSophitia.github.io/blob/main/baby%20bear.jpg)
+
+
+# Units
+
+### Vocal Line
+- Jongho (main)
+- San (lead)
+- Seonghwa 
+- Yunho
+- Yeosang
+- Hongjoong (sub)
+
+### Dance Line/Performance Line
+- Yunho (main)
+- Yeosang (lead)
+- Wooyoung
+- San
+- Mingi
+
+### Rap Line
+- Mingi (Main)
+- Hongjoong (lead)
+- Seonghwa (sub)
+
+### Demon Line
+- San 
+- Hongjoong
+- Seonghwa
