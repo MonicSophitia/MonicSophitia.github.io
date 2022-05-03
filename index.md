@@ -2,7 +2,7 @@
 
 ### **"EIGHT MAKES ONE TEAM!"** 
 
- ![Image](https://github.com/MonicSophitia/MonicSophitia.github.io/blob/main/Ateez.jpg)
+ ![alt text](https://github.com/MonicSophitia/MonicSophitia.github.io/blob/main/Ateez.jpg)
 
 _**Ateez(에이티즈)** is an 8-member boy group under KQ Entertainment. Members consist of **Park Seonghwa, Kim Hongjoong, Jung Yunho, Kang Yeosang, Choi San, Song Mingi, Jung Wooyoung, Choi Jongho.**_
 _The group was launched to fame via the YouTube series in mnet's channel **“KQ Fellaz American Training”**, in which members travelled across the Pacific to receive instruction in the various skills needed to become K-pop stars._
